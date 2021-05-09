@@ -170,7 +170,7 @@ Tipe Kendaraan merupakan variabel yang cukup berpengaruh dibandingkan dengan var
 **Rekomendasi : Dalam mencocokkan taksi apa yang tepat kepada pelanggan, perusahaan “J Taxi” harus lebih memperhatikan tipe kendaraan dari jenis-jenis pelanggan yang ada.**
 
 ### Team Members : 
-   * Ravialdy Hidayat (Group Leader)
+   * Ravialdy Hidayat
    * Stanley Pratama
    * Kevin Prawira
 
