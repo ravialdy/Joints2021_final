@@ -1,5 +1,7 @@
-# (Final Lomba Joints 2021 UGM) : Model Random Forest dalam memprediksi jenis pelanggan yang tepat untuk perusahaan “J Taxi”  
+## (Final Lomba Joints 2021 UGM) : Model Random Forest dalam memprediksi jenis pelanggan yang tepat untuk perusahaan “J Taxi”  
+
 ### Model kelompok saya berhasil memperoleh akurasi sekitar 76% (3rd rank on Private Leaderboard Kaggle) pada lomba Data Mining tingkat nasional yang diselenggarakan oleh HIMAKOM UGM.
+
 #### Link Kaggle : https://www.kaggle.com/c/final-data-mining-competition-joints-2021/leaderboard
 
 ### Latar Belakang
